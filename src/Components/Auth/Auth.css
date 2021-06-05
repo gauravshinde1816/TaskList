@@ -1,0 +1,21 @@
+* {
+  overflow-x: hidden;
+}
+.background {
+  background: url("../../image/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.login-card {
+  margin-top: 80px;
+  box-shadow: 1px 2px 3px gray;
+}
+.title {
+  font-size: 35px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
