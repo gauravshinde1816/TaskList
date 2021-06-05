@@ -4,7 +4,7 @@
 
 #### 1) npm start (to start the react front end)
 
-#### 2) cd back
+#### 2) cd backend
 
 #### 3) nodemon server.js (to start the node backend)
 
